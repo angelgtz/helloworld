@@ -9,3 +9,4 @@ fin
 Dejamos ambos mensajes
 
 Nuevo mensaje Hola version1 respuesta navegador
+Problemas linea 12 desde la consola
