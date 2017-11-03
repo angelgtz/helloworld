@@ -8,4 +8,4 @@ fin
 
 Dejamos ambos mensajes
 
-Nuevo mensaje Hola version1
+Nuevo mensaje Hola version1 respuesta navegador
