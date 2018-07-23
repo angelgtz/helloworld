@@ -11,5 +11,7 @@ Otro mensaje del dia 2018 07 23 - segundo mensaje desde master no desde primer_r
 fin
 
 Dejamos ambos mensajes
-
 Nuevo mensaje Hola
+Nuevo mensaje desde VM
+
+
